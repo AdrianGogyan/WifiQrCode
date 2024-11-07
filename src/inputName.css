@@ -2,6 +2,10 @@ h2{
     margin: 1em 0;
 }
 
+option{
+    background: #b9b9b9;
+}
+
 button{
     margin: 2em;
     padding: 1em 5em;
