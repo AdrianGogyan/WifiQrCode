@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/WifiQrCode/static/css/main.426ce7df.css",
+    "main.js": "/WifiQrCode/static/js/main.ea8a45e2.js",
+    "static/js/453.60843206.chunk.js": "/WifiQrCode/static/js/453.60843206.chunk.js",
+    "index.html": "/WifiQrCode/index.html",
+    "main.426ce7df.css.map": "/WifiQrCode/static/css/main.426ce7df.css.map",
+    "main.ea8a45e2.js.map": "/WifiQrCode/static/js/main.ea8a45e2.js.map",
+    "453.60843206.chunk.js.map": "/WifiQrCode/static/js/453.60843206.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.426ce7df.css",
+    "static/js/main.ea8a45e2.js"
+  ]
+}
