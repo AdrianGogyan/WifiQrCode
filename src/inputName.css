@@ -1,6 +1,13 @@
-h2{
+h2, .ssDiv{
     margin: 1em 0;
 }
+
+.ssDiv{
+    font-size: 2em;
+    font-weight: 700;
+    color: #302e2e;
+}
+
 
 option{
     background: #b9b9b9;
@@ -42,10 +49,24 @@ button:active{
     border: none;
     border-bottom: 1px solid #515151;
     background: transparent;
+    position: relative;
    }
    
    .input:focus {
     outline: none;
+   }
+
+   .visIcon{
+    position: absolute;
+    top: 45%;
+    right: 5%;
+    transition: 0.2s ease all;
+    -moz-transition: 0.2s ease all;
+    -webkit-transition: 0.2s ease all;
+
+   }
+   .input:focus ~ .visIcon, .input:valid ~ .visIcon {
+    top: 25%;
    }
    
    label {
